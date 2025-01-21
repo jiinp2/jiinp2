@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jiinp2
 - 👀 I’m interested in design & code
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me @jiinnoh on X (Twitter)
 - 😄 Pronouns: she/her
 
