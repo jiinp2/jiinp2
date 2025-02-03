@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jiin</h1>
-<h3 align="center">A product designer from Canada</h3>
+<h1>Hi 👋, I'm Jiin</h1>
+<h3>A product designer from Canada</h3>
 
 - 🌱 I’m currently learning **software engineering @ BrainStation**
 
