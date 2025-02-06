@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning software engineering @ BrainStation
 
-- 👨‍💻 All of my projects are available at [https://www.jiinpark.ca/](https://www.jiinpark.ca/)
+- 👨‍💻 Select projects are available at [https://www.jiinpark.ca/](https://www.jiinpark.ca/)
 
 - 📫 How to reach me jiinpark.work@gmail.com
 
