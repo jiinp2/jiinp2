@@ -5,7 +5,7 @@
 
 - 👨‍💻 Select projects are available at [https://www.jiinpark.ca/](https://www.jiinpark.ca/)
 
-- 📫 How to reach me jiinpark.work@gmail.com
+- 📫 I can be reached at jiinpark.work@gmail.com
 
 <h3 align="left">Dev:</h3>
 <p align="left">
