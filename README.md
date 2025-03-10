@@ -1,7 +1,6 @@
-<h1>Hi 👋, I'm Jiin</h1>
-<h3>A product designer from Canada</h3>
+<h2>Hi 👋, I'm Jiin</h2>
 
-- 🌱 I’m currently learning software engineering @ BrainStation
+- 🌱 I’m a product designer currently learning software engineering @ BrainStation
 
 - 👨‍💻 Select projects are available at [https://www.jiinpark.ca/](https://www.jiinpark.ca/)
 
