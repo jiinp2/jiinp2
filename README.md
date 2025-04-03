@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Jiin</h2>
 
-- 🌱 I’m a product designer currently learning software engineering @ BrainStation
+- 🌱 I’m a product designer who just recently graduated from BrainStation's software engineering program. 
 
 - 👨‍💻 Select projects are available at [https://www.jiinpark.ca/](https://www.jiinpark.ca/)
 
