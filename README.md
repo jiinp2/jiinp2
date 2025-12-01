@@ -1,8 +1,7 @@
 <h2>Hi 👋, I'm Jiin</h2>
 
-- 🌱 I’m a product designer who just recently graduated from BrainStation's software engineering program. 
-
-- 👨‍💻 Select projects are available at [https://www.jiinpark.ca/](https://www.jiin.space/)
+- 🌱 I’m a product designer learning to code. 
+- 👨‍💻 Select projects are available at [https://www.jiin.space/](https://www.jiin.space/)
 
 <h4 align="left">Dev</h4>
 <p align="left">
