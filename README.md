@@ -2,7 +2,7 @@
 
 - 🌱 I’m a product designer who just recently graduated from BrainStation's software engineering program. 
 
-- 👨‍💻 Select projects are available at [https://www.jiinpark.ca/](https://www.jiinpark.ca/)
+- 👨‍💻 Select projects are available at [https://www.jiinpark.ca/](https://www.jiin.space/)
 
 <h4 align="left">Dev</h4>
 <p align="left">
