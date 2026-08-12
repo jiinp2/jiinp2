@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Jiin</h2>
 
-- My job is to fold clothes
+My job is to fold clothes.
   
 <h4 align="left">Dev</h4>
 <p align="left">
