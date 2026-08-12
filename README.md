@@ -1,8 +1,7 @@
 <h2>Hi 👋, I'm Jiin</h2>
 
-- 🌱 I’m a product designer learning to code. 
-- 👨‍💻 Select projects are available at [https://www.jiin.space/](https://www.jiin.space/)
-
+- My job is to fold clothes
+- 
 <h4 align="left">Dev</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
